@@ -194,6 +194,9 @@ p {
   width: 215px;
   /* background-color: blue; */
 }
+.H3hover{
+  color:var(--Verydarkblue)
+}
 .H3hover:hover {
   color: var(--Softred);
 }
